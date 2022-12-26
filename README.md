@@ -1,3 +1,3 @@
 # warden
 Private use room managing Discord.js bot
-# warden
+written by nyaambxr & GitHub Copilot
