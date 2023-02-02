@@ -129,7 +129,10 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .env
-
+.vscode
+.history
+places.json
+rooms.json
 rooms.json
 .env
 places.json
