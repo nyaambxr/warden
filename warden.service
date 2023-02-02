@@ -1,0 +1,13 @@
+[Unit]
+Description=Warden
+
+[Service]
+User=nyaambxr
+ExecStart=npm run bot
+WorkingDirectory=/home/nyaambxr/warden/
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
+
