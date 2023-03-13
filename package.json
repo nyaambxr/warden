@@ -8,7 +8,7 @@
     "dotenv": "^16.0.3",
     "erlpack": "github:discord/erlpack",
     "select-random-file": "^1.2.2",
-    "sqlite3": "^5.1.4",
+    "sqlite3": "^5.1.5",
     "utf-8-validate": "^6.0.3",
     "zlib-sync": "^0.1.7"
   },
